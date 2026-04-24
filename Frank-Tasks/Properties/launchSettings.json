@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Frank-Tasks (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Frank-Tasks (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
